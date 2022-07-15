@@ -1,0 +1,22 @@
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaDatos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaDatos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaDatos\bin\Debug\CapaModelo.dll
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaDatos\bin\Debug\System.Data.SqlClient.dll
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaDatos\bin\Debug\System.Data.SqlClient.xml
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaDatos\obj\Debug\CapaDatos.pdb

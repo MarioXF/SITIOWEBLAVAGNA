@@ -1,0 +1,12 @@
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\shuma\source\repos\SITIOWEBLAVAGNA\CapaModelo\obj\Debug\CapaModelo.pdb
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaModelo\bin\Debug\CapaModelo.dll
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaModelo\obj\Debug\CapaModelo.dll
+D:\Mario USS\Lenguajes de Programación\Lavagna\SITIOWEBLAVAGNA\CapaModelo\obj\Debug\CapaModelo.pdb
